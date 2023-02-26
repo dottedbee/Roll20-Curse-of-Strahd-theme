@@ -1,0 +1,1491 @@
+
+:root {
+        --color-primary1: #7b199c;
+        --color-primary2: #b41ed5;
+        --color-primary3: #e033e6;
+        --color-primary4: #ff65ed;
+        --color-primary5: #ff88e1;
+        --color-primary6: #ffa2ce;
+        --color-primary7: #ffc5de;
+        --color-primary8: #ffe0e7;
+        --color-surface1: #0d0912;
+        --placeholder-text-color: #ffc5de7d;
+        --color-primary-text: var(--color-primary8);
+        --color-text-disabled: var(--color-primary5);
+        --color-grayscale3: var(--color-primary5);
+        --color-grayscale1: var(--color-primary8);
+        --color-grayscale2: var(--color-primary7);
+        --color-surface2: var( --color-surface1);
+        --color-green1: #00252a;
+        --color-green2: #003c68;
+        --color-green3: #046e92;
+        --color-green4: #0ec3cd;
+        --color-green5: #1bffff;
+        --color-green6: #9bffe3;
+        --color-green7: #d9ffe4;
+        --color-notification-snackbar-error: #610027;
+        --dark-surface1: var(--color-surface1);
+        --dark-red-D20: var(--darker-red-l20);
+        --dark-red-l20: #a01f38;
+        --darker-red-l20: #46000f;
+        --dark-red-L20: #ff98ba;
+        --dark-primarytext: #beb6c3;
+        --dark-gray-enabled: var(--dark-primarytext);
+        --darker-text: var(--dark-primarytext);
+        --dark-surface2: var( --dark-surface1);
+        --dark-primary: var(--darker-red-l20);
+        --color-notification-snackbar-error-text: var(--color-primary8);
+        --color-red4: var(--color-notification-snackbar-error);
+    }
+    
+    .sheet-darkmode .licensecontainer .container.pc .header .header-info {
+        background-image: none;
+    }
+    .sheet-darkmode .header input {
+        background-color: transparent;
+        border-bottom: none;
+    }
+    .sheet-darkmode .licensecontainer .container:not(.npc) div.page > div.header::after {
+        background-image: none;
+    }
+
+.sheet-rolltemplate-darkmode.sheet-rolltemplate-dmg div.sheet-atk {
+  background-image: url('https://openclipart.org/image/400px/320811');
+    margin-bottom: 20px;
+    width: 210px;
+    height: 80px;
+}
+    .sheet-rolltemplate-dmg .sheet-save .sheet-savedc {
+  padding-top: 20px;
+}
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.options, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.bio div.header div.header-info, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.header div.header-info, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display{
+background: url(https://github.com/dottedbee/hhhhhhhhhhhhhhhh/blob/main/frame.webp?raw=true);
+        background-size: 100%;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.bio div.header div.header-info div.top,  html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.bio div.header div.header-info div.bottom{   
+        text-align: center;
+    }
+    .licensecontainer .container:not(.npc) div.header-info div.hlabel-container input, div.page:nth-child(10) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div.hlabel-container > input{
+  width: 80px !important;
+        text-align: center;
+}
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.header div.header-info div.part select, div.part:nth-child(2) > span:nth-child(1), div.part:nth-child(3) > span:nth-child(1){
+        background: none;
+        height: 40px;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display div.top, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display div.bottom {
+        text-align: center;
+    }
+    
+        html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display div.top {
+         margin-top: 8px;
+            margin-bottom: -2px;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display div.bottom div.hlabel-container input[name="attr_alignment"], html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display div.bottom div.hlabel-container input.no_events {
+        text-align: left;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display div.top div.hlabel-container {
+        width: 150px;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display div.bottom div.hlabel-container {
+        width: 100px;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.header div.header-info {
+        height: 102px;
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.header div.header-info .part {
+        margin-top: 8px;
+    }
+    
+    .licensecontainer .container.pc .header .header-info {
+  margin-top: 30px;
+  margin-left: 51px;
+        background: none; }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.header div.header-info div.part {
+        background: none;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.options div.row {
+        margin-top: 14px;
+        margin-left: 7px;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.options div.row select.hiding.class {
+        background: url(https://github.com/dottedbee/hhhhhhhhhhhhhhhh/blob/main/frame.webp?raw=true);
+    }
+    
+        html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.options div.row input {
+            margin-left:4px;
+            margin-top: -4px;
+    }
+    
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) div.page.core > div.header,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.bio div.header,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.header {
+        background-image: url(https://github.com/dottedbee/hhhhhhhhhhhhhhhh/blob/main/curse_of_strahd_banner_big.webp?raw=true);
+        background-position: -12px 3px;
+    }
+
+    .licensecontainer .container:not(.npc) .subcontainer .row-container input[type="checkbox"] {
+        margin: 0px -2px;
+        border-radius: 50%;
+        border: 2px solid var(--darker-red-l20) !important;
+        width: 1em;
+        height: 1em;
+        background-color: var(--color-surface1);
+        vertical-align: middle;
+        -webkit-appearance: none;
+        outline: none;
+        cursor: pointer;
+    }
+    .sheet-darkmode .licensecontainer .container:not(.npc) .subcontainer .row-container input[name="attr_deathsave_succ1"][type="checkbox"]:checked,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .subcontainer .row-container input[name="attr_deathsave_succ2"][type="checkbox"]:checked,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .subcontainer .row-container input[name="attr_deathsave_succ3"][type="checkbox"]:checked {
+        background-color: var(--dark-red-l20);
+    }
+    .sheet-darkmode .licensecontainer .container:not(.npc) .attributes-container {
+        background: none;
+    }
+
+    div.page:nth-child(10) > div:nth-child(2) > div div.textbox {
+        position: relative;
+        padding-bottom: 25px;
+    }
+    div.page:nth-child(10) > div:nth-child(2) > div div.textbox span {
+        bottom: 10px;
+        left: 5%;
+        position: absolute;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.top {
+        margin-left: -10px;
+    }
+    .attacks > div:nth-child(1) > span:nth-child(1) {
+        margin-left: -18px;
+    }
+    .attacks > div:nth-child(1) > span:nth-child(2) {
+        margin-left: 28px;
+    }
+    .attacks > div:nth-child(1) > span:nth-child(3) {
+        margin-left: 16px;
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.top,
+    div.ui-sortable:nth-child(3) {
+        margin-left: -12px;
+    }
+
+    .sheetform {
+        padding-bottom: 40px;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .bio .textbox {
+        border-image-source: url(https://png.pngtree.com/png-clipart/20230104/ourmid/pngtree-victorian-elegant-border-frame-in-silver-png-image_6551513.png);
+        border-image-slice: 10%;
+        border-image-width: auto;
+        border-image-width: 25px !important;
+        border-image-repeat: round !important;
+        border-width: 18px;
+        padding: 15px;
+    }
+
+
+    div.page:nth-child(10) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > textarea,
+    div.page:nth-child(10) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > textarea,
+    .col2-3 > div:nth-child(1) > textarea,
+    .col2-3 > div:nth-child(2) > textarea,
+    .col2-3 > div:nth-child(3) > textarea {
+        text-align: justify;
+        white-space: pre-line;
+    }
+
+    .licensecontainer .container:not(.npc) .bio .col1 .textbox {
+        min-height: 360px !important;
+        height: 360px !important;
+    }
+
+    .licensecontainer .container:not(.npc) .bio .col1 .textbox textarea {
+        min-height: 250px !important;
+        height: 250px !important;
+    }
+
+    .licensecontainer .container:not(.npc) .bio .col1 .textbox + .textbox {
+        min-height: 730px !important;
+        height: 730px !important;
+    }
+
+    .licensecontainer .container:not(.npc) .bio .col1 .textbox + .textbox textarea {
+        min-height: 600px !important;
+        height: 600px !important;
+    }
+
+    .col2-3 > div:nth-child(1) > textarea,
+    .col2-3 > div:nth-child(2) > textarea,
+    .col2-3 > div:nth-child(3) > textarea {
+        min-height: 250px !important;
+        height: 250px !important;
+    }
+
+    .col2-3 > div:nth-child(1),
+    .col2-3 > div:nth-child(2),
+    .col2-3 > div:nth-child(3) {
+        min-height: 360px !important;
+        height: 360px !important;
+    }
+
+    div.page:nth-child(10) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > textarea:nth-child(1),
+    div.page:nth-child(10) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > textarea:nth-child(1),
+    .col2-3 > div:nth-child(1) > textarea:nth-child(1),
+    .col2-3 > div:nth-child(2) > textarea:nth-child(1),
+    .col2-3 > div:nth-child(3) > textarea:nth-child(1) {
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+    }
+
+    div.page:nth-child(10) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > textarea:nth-child(1)::-webkit-scrollbar {
+        display: none;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) input[type="radio"].tab-button:checked + span {
+        background-color: var(--dark-red-l20);
+        color: var(--dark-primarytext);
+    }
+
+    div.container.pc input.tab-button.core:hover,
+    div.container.pc input.tab-button.bio:hover,
+    div.container.pc input.tab-button.spells:hover,
+    div.container.pc input.tab-button.options:hover {
+        background-color: var(--dark-red-l20);
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources {
+        border-top: 1px inset #5d5c6eb0;
+        border-bottom: 1px inset #5d5c6eb0;
+        margin-left: 8px;
+        width: 264px;
+        margin-top: -6px;
+        height: 108px;
+        overflow-y: scroll;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.hdice-dsaves-container {
+        margin-bottom: 11px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.hdice-dsaves-container div.subcontainer div.display input:nth-child(2) {
+        font-size: 18px;
+        height: 18px;
+        line-height: 18px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.hdice-dsaves-container div.subcontainer {
+        border-top-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border: 1px inset var(--dark-red-l20);
+        margin-top: 4px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.hdice-dsaves-container div.subcontainer input:nth-child(1),
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.hdice-dsaves-container div.subcontainer input:nth-child(3) {
+        font-size: 9px;
+        height: 16px;
+        line-height: 12px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.rest button {
+        display: none;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item input:nth-child(2),
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item input:nth-child(3),
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item input:nth-child(4),
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool div.display button.btn.ui-draggable span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool div.display button.btn.ui-draggable input,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.repcontainer div.repitem div.proficiency div.display button.btn.ui-draggable span {
+        background-color: var(--color-surface1);
+        border: 1px inset var(--dark-red-l20);
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer.ui-sortable div.repitem div.attack div.display button.btn.ui-draggable input,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer.ui-sortable div.repitem div.attack div.display button.btn.ui-draggable span {
+        border: 1px inset var(--dark-red-l20);
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer.ui-sortable div.repitem div.attack div.display button.btn.ui-draggable span,
+    .sheet-darkmode .attr-container button.btn,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item div.subitem input.subfield {
+        background: transparent;
+    }
+
+    #textchat,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer div.repitem div.attack div.display button.btn.ui-draggable span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer div.repitem div.attack div.display button.btn.ui-draggable input {
+        background-color: var(--color-surface1);
+        color: var(--dark-primarytext);
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer div.repitem div.attack div.display:hover button.btn.ui-draggable span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer div.repitem div.attack div.display:hover button.btn.ui-draggable input {
+        color: var(--dark-red-l20) !important;
+    }
+
+    .textchatcontainer .message.system:hover p,
+    .textchatcontainer .message.system:hover li,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-dmgaction .sheet-container:hover div span,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-dmgaction .sheet-container:hover span {
+        color: var(--dark-red-l20);
+    }
+
+    .basicdiceroll.critsuccess,
+    .inlineqroll.critsuccess,
+    html.dark body.no-touch div#rightsidebar.ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable div#textchat.textchatcontainer.ui-tabs-panel.ui-widget-content.ui-corner-bottom.sheet-darkmode div.content div.message.general div.sheet-rolltemplate-simple.sheet-rolltemplate-darkmode div.sheet-container div.sheet-result div.sheet-adv span span.inlinerollresult.showtip.tipsy-n-right.fullcrit,
+    html.dark body.no-touch div#rightsidebar.ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable div#textchat.textchatcontainer.ui-tabs-panel.ui-widget-content.ui-corner-bottom.sheet-darkmode div.content div.message.general div.sheet-rolltemplate-simple.sheet-rolltemplate-darkmode div.sheet-container div.sheet-result div.sheet-solo span span.inlinerollresult.showtip.tipsy-n-right.fullcrit,
+    .diceroll.critsuccess .dicon .didroll,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-npc .inlinerollresult.fullcrit,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-npcaction .inlinerollresult.fullcrit,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-npcfullatk .inlinerollresult.fullcrit,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-npcatk .inlinerollresult.fullcrit,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-npcdmg .inlinerollresult.fullcrit,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-dmgaction .inlinerollresult.fullcrit, .sheet-rolltemplate-simple .inlinerollresult.fullcrit, .sheet-rolltemplate-simple3D .inlinerollresult.fullcrit, .sheet-rolltemplate-skill .inlinerollresult.fullcrit, .sheet-rolltemplate-atk .inlinerollresult.fullcrit, .sheet-rolltemplate-atkdmg .inlinerollresult.fullcrit, .sheet-rolltemplate-dmg .inlinerollresult.fullcrit {
+        color: #3cdeff;
+    }
+    
+    html.dark body.no-touch div#rightsidebar.ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable div#textchat.textchatcontainer.ui-tabs-panel.ui-widget-content.ui-corner-bottom.sheet-darkmode div.content div.message.emote span.inlinerollresult.showtip.tipsy-n-right.fullcrit{
+  color: #3cdeff;
+border: none;
+}
+
+    .sheet-rolltemplate-npc .inlinerollresult.fullfail,
+    .sheet-rolltemplate-npcaction .inlinerollresult.fullfail,
+    .sheet-rolltemplate-npcfullatk .inlinerollresult.fullfail,
+    .sheet-rolltemplate-npcatk .inlinerollresult.fullfail,
+    .sheet-rolltemplate-npcdmg .inlinerollresult.fullfail,
+    .sheet-rolltemplate-dmgaction .inlinerAollresult.fullfail,
+    .basicdiceroll.critfail,
+    html.dark body.no-touch div#rightsidebar.ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable div#textchat.textchatcontainer.ui-tabs-panel.ui-widget-content.ui-corner-bottom.sheet-darkmode div.content div.message.general div.sheet-rolltemplate-simple.sheet-rolltemplate-darkmode div.sheet-container div.sheet-result div.sheet-solo span span.inlinerollresult.showtip.tipsy-n-right.fullfail {
+        color: #9e021a;
+    }
+    
+    html.dark body.no-touch div#rightsidebar.ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable div#textchat.textchatcontainer.ui-tabs-panel.ui-widget-content.ui-corner-bottom.sheet-darkmode div.content div.message.emote span.inlinerollresult.showtip.tipsy-n-right.fullfail{
+ color: #9e021a;
+border: none;
+}
+    
+    html.dark body.no-touch div#rightsidebar.ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable div#textchat.textchatcontainer.ui-tabs-panel.ui-widget-content.ui-corner-bottom.sheet-darkmode div.content div.message.emote span.inlinerollresult.showtip.tipsy-n-right {
+        color: var(--color-text-disabled);
+    }
+    
+.sheet-rolltemplate-spelloutput .sheet-container .sheet-desconly span {
+  background: var(--darker-red-l20);
+}
+
+    .insp-prof-container .value input[type="checkbox"] ~ span {
+        height: 100%;
+        width: 100%;
+        border-radius: 50%;
+        background: url("https://freepngimg.com/download/light/78295-light-sun-glory-golden-png-free-photo.png") left top no-repeat;
+        background-size: auto;
+        background-size: contain;
+        cursor: pointer;
+        position: absolute;
+        top: 0px;
+        display: none;
+    }
+
+    .sheet-darkmode .insp-prof-container input[name="attr_inspiration"] + span {
+        filter: none;
+        animation: ani-spin 0.2s ease-in forwards;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.rest button {
+        background: none;
+    }
+
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.top span.label,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.header span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.top span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.top span,
+    .sheet-darkmode .rp-traits .rp-traits__title span,
+    div.insp-prof-container:nth-child(3) > div:nth-child(2) > span:nth-child(1),
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.insp-prof-container div.label span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.vitals div.vitals-stats div.hp div.top span {
+        color: var(--dark-red-l20);
+        font-family: "Luminari" !important;
+    }
+
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.top span.label,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.header span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.top span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.top span {
+        font-size: 10px;
+        font-weight: 800;
+    }
+
+    .sheet-darkmode .rp-traits .rp-traits__title span {
+        font-size: 20px;
+    }
+
+    div.insp-prof-container:nth-child(3) > div:nth-child(2) > span:nth-child(1) {
+        width: 200px;
+        font-size: 12px;
+        margin-left: 14px;
+        height: 30px;
+        line-height: 35px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.insp-prof-container div.label span {
+        margin-left: 50px;
+        text-align: left;
+        width: 100px;
+        font-size: 10px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.vitals div.vitals-stats div.hp div.top span {
+        font-size: 14px;
+        font-weight: 800;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.textbox.traits {
+        height: 476px;
+        min-height: 0px !important;
+        margin-left: 7px;
+        width: 264px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.textbox.traits div.complex {
+        height: 348px;
+        width: 212px;
+    }
+
+
+    div.hp:nth-child(2)::before,
+    div.hp:nth-child(3) > span:nth-child(2)::after {
+        content: "";
+        border-top: 2px inset #5d5c6eb0 !important;
+        margin-top: 10px;
+        display: block;
+    }
+
+    .vitals-stats::after,
+    .charsheet .body::before {
+        content: "";
+        border-top: 2px inset #5d5c6eb0 !important;
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    div.hdice-dsaves-container:nth-child(6) > div:nth-child(2) {
+        position: relative;
+    }
+
+    div.hdice-dsaves-container:nth-child(6) > div:nth-child(2)::before {
+        position: absolute;
+        content: "";
+        display: block;
+        top: 1px;
+        left: -4px;
+        border-left: 1px inset #5d5c6eb0 !important;
+        height: 64px;
+    }
+
+    .attacks .options-flag + span,
+    .spell .details-flag + span,
+    .attacks .options-flag + span,
+    .spell .options-flag + span,
+    .tool .options-flag + span,
+    .npc .npc_options-flag + span,
+    .trait .options-flag + span,
+    .global-mod .options-flag + span,
+    .action .options-flag + span,
+    .textbox .options-flag + span,
+    .proficiencies .options-flag + span,
+    .traits .options-flag + span,
+    .equipment .inventorysubflag + span,
+    .header .options-flag + span,
+    .hdice-dsaves-container .options-flag + span,
+    div.footerborder1,
+    .homeannouncement,
+    #reserve_announcement,
+    div.header:nth-child(5) > span:nth-child(1),
+    div.header:nth-child(5) > span:nth-child(3),
+    div.textbox > input {
+        visibility: hidden;
+    }
+
+    div.hp:nth-child(3)::before {
+        content: "";
+        margin-top: 5px;
+        border-top: 2px inset #5d5c6eb0 !important;
+        display: block;
+    }
+
+    div.hp:nth-child(2) > input:nth-child(2)::-webkit-outer-spin-button,
+    div.hp:nth-child(2) > input:nth-child(2)::-webkit-inner-spin-button,
+    div.hdice-dsaves-container:nth-child(6) > div:nth-child(1) > input:nth-child(3)::-webkit-outer-spin-button,
+    div.hdice-dsaves-container:nth-child(6) > div:nth-child(1) > input:nth-child(3)::-webkit-inner-spin-button,
+    div.hp:nth-child(3) > input:nth-child(1)::-webkit-inner-spin-button,
+    div.hp:nth-child(3) > input:nth-child(1)::-webkit-outer-spin-button,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.hdice-dsaves-container div.subcontainer input::-webkit-inner-spin-button,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.hdice-dsaves-container div.subcontainer input::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
+    div.hp:nth-child(2) > input:nth-child(2)[type=number],
+    div.hp:nth-child(3) > input:nth-child(1)[type=number],
+    div.hdice-dsaves-container:nth-child(6) > div:nth-child(1) > input:nth-child(3)[type=number],
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources div.hdice-dsaves-container div.subcontainer input[type=number] {
+        -moz-appearance: textfield;
+        /* Firefox */
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks span.label {
+        left: 0px;
+        top: 292px;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .col1 > .insp-prof-container {
+        background-image: none;
+    }
+
+    .licensecontainer .container:not(.npc) .equipment .weighttotal {
+        left: 0;
+        position: absolute;
+        width: 100%;
+        top: 514px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment {
+        height: 600px;
+        position: relative;
+    }
+
+    div.equipment:nth-child(8) > span:nth-child(5) {
+        top: 564px;
+        position: fixed;
+        left: 0px;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .equipment .money .coin::after {
+        background-color: var(--dark-surface2);
+        border-image-source: url(https://i.pinimg.com/originals/73/84/72/7384720b74ca44380d285f95db30e407.png);
+        border-image-slice: 8% !important;
+        border-image-width: 7px !important;
+        border-image-repeat: round !important;
+        border-radius: 0px;
+        border-width: 18px;
+    }
+
+    div.insp-prof-container:nth-child(3) {
+        width: 100%;
+        position: absolute;
+        top: 684px;
+    }
+
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old {
+        margin-top: 14px;
+        width: 264px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies {
+        height: 244px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old {
+        height: 288px;
+    }
+
+    div.insp-prof-container:nth-child(3) div:nth-child(1) span {
+        background-color: var(--dark-surface2);
+        border-image-source: url(https://i.pinimg.com/originals/73/84/72/7384720b74ca44380d285f95db30e407.png);
+        border-image-slice: 8% !important;
+        border-image-width: 7px !important;
+        border-image-repeat: round !important;
+        border-radius: 0px;
+        border-width: 20px;
+        padding: 4px;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .equipment .money .coin input:focus {
+        outline: none;
+    }
+
+    .licensecontainer .container:not(.npc) .equipment .money {
+        border-bottom: none;
+        margin-bottom: 10px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.vitals div.vitals-stats div.hp {
+        background: var(--dark-surface1);
+        position: relative;
+        top: -20px;
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.rp-traits {
+        top: -6px;
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.label {
+        top: 210px;
+        left: 0px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.label {
+        position: absolute;
+        left: 40px;
+        top: 264px;
+    }
+
+    .licensecontainer .container:not(.npc) .core .col2 .vitals .vitals-stats,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.rp-traits {
+        background-color: var(--dark-surface2) !important;
+    }
+    .sheet-darkmode .rp-traits::after {
+        content: "";
+        border: none;
+        border-image-source: none;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .insp-prof-container + .insp-prof-container,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .insp-prof-container {
+        background-image: none;
+    }
+
+    div.insp-prof-container:nth-child(1) {
+        display: inline-block;
+        width: 100%;
+        position: relative;
+        top: -2px;
+    }
+
+    .licensecontainer .container:not(.npc) .insp-prof-container + .insp-prof-container .value {
+        margin-top: 7px;
+    }
+
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.insp-prof-container div.value {
+        border-image-source: url(https://i.pinimg.com/originals/73/84/72/7384720b74ca44380d285f95db30e407.png);
+        border-image-slice: 8% !important;
+        border-image-width: 7px !important;
+        border-image-repeat: round !important;
+        padding: 1px;
+        margin-left: 1px;
+        position: absolute;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .subcontainer {
+        background-color: var(--dark-surface2);
+        border-image-source: none;
+        position: relative;
+        height: 110px;
+        padding: 4px;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .subcontainer {
+        clip-path: none;
+        box-sizing: border-box;
+        width: 49%;
+        height: 70px;
+        margin-top: -30px;
+    }
+
+    .licensecontainer .container:not(.npc) .hdice-dsaves-container {
+        padding: 0;
+        background-color: var(--dark-surface1);
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .pibf,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .pibf + .pibf + .pibf + .pibf {
+        background-color: var(--dark-surface2);
+        border-image-source: url(https://png.pngtree.com/png-clipart/20230104/ourmid/pngtree-victorian-elegant-border-frame-in-silver-png-image_6551513.png);
+        position: relative;
+        border-image-slice: 15% !important;
+        border-image-width: 25px !important;
+        border-image-repeat: stretch!important;
+        border-radius: 0px;
+        height: 159px;
+        padding: 8px;
+    }
+    .textbox span {
+        width: 90%;
+        margin-bottom: 10px;
+    }
+    .sheet-darkmode input,
+    .sheet-darkmode input,
+    :hover {
+        background-color: transparent;
+        color: var(--dark-secondarytext);
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .ac-init-speed-container .ac,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .ac-init-speed-container .init,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .ac-init-speed-container .speed,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.attributes-container .attr-container {
+        background-image: url(https://i.pinimg.com/originals/73/84/72/7384720b74ca44380d285f95db30e407.png);
+    }
+
+    body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.attributes-container .attr-container {
+        padding: 22px;
+        position: relative;
+        top: -25px;
+    }
+    .sheet-darkmode .licensecontainer .container:not(.npc) .ac-init-speed-container .ac,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .ac-init-speed-container .init,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .ac-init-speed-container .speed {
+        padding: 10px 4px;
+        position: relative;
+        top: -18px;
+        background-size: 80px 88px;
+    }
+
+    .licensecontainer .container:not(.npc) .ac-init-speed-container .init span,
+    .licensecontainer .container:not(.npc) .ac-init-speed-container .speed input {
+        display: inline-block;
+        margin-top: 10px;
+        font-size: 20px;
+    }
+    .licensecontainer .container:not(.npc) .ac-init-speed-container .speed .label {
+        position: absolute;
+        top: 49px;
+        left: 0px;
+    }
+
+    .attributes-container {
+        width: 80px;
+    }
+    .skills-saves-container {
+        width: 160px;
+        margin-right: 0px;
+        margin-left: 15px;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .charsheet .col {
+        position: relative;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .attacks {
+        height: 327px;
+    }
+
+    .ui-dialog .charsheet .col:last-child {
+        margin-right: 0px !important;
+        margin-left: 1px;
+    }
+
+    .charsheet .col.col2 {
+        margin-left: -7px;
+    }
+
+    .charsheet .body {
+        width: 850px;
+        margin-top: 40px;
+    }
+
+    .sheet-darkmode .attr-container button.btn,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .ac-init-speed-container .init button {
+        border: none;
+        position: absolute;
+        left: 0px;
+        top: 20px;
+        background-color: transparent;
+    }
+    .sheet-darkmode .licensecontainer .container:not(.npc) .attr-container button {
+        font-size: 7.5px !important;
+        width: 55px;
+        position: absolute;
+        top: 20px;
+        left: 13px;
+    }
+    .sheet-darkmode .licensecontainer .container:not(.npc) .attr-container span.attr {
+        position: absolute;
+        top: 30px;
+        left: 30px;
+    }
+
+    .licensecontainer .container:not(.npc) .attr-container .attr-mod {
+        margin-top: 6px;
+    }
+
+    .sheet-darkmode .licensecontainer .container:not(.npc) .saving-throw-container,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .traits,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .attacks,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .equipment,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .tool_proficiencies,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .proficiencies,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .skills-container {
+        border-image-source: url(https://png.pngtree.com/png-clipart/20230104/ourmid/pngtree-victorian-elegant-border-frame-in-silver-png-image_6551513.png);
+        position: relative;
+        box-sizing: border-box;
+        padding: 20px;
+        padding-top: 15px;
+        padding-bottom: 30px;
+        border-image-slice: 38%;
+        border-image-width: 60px;
+        border-image-repeat: stretch;
+    }
+    .skills-container.skills-list {
+        align-content: center;
+        height: 396px;
+    }
+
+    .skill {
+        width: 130px;
+        height: 18px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.skills-container.skills-list div div.skill button.btn.ui-draggable {
+        font-size: 8px !important;
+        line-height: 14px;
+        text-align: left;
+        height: 14px;
+        width: 70px;
+    }
+
+    .saving-throw {
+        width: 140px;
+        height: 18px;
+    }
+
+    div.hdice-dsaves-container:nth-child(6) > div:nth-child(2) > button:nth-child(3) {
+        position: absolute;
+        top: 56px;
+        left: 20px;
+    }
+    .licensecontainer .container:not(.npc) .subcontainer .top input {
+        width: 28px !important;
+    }
+    div.row-container:nth-child(2) {
+        margin-top: 0;
+    }
+    div.row-container:nth-child(1),
+    div.row-container:nth-child(2) {
+        display: grid;
+        grid-template-columns: [first] 70px repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 8px;
+    }
+
+    .charsheet .subcontainer .roll-hitdie select {
+        font-size: 9px;
+        border-bottom: 0px;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer.ui-sortable div.repitem div.attack div.display {
+        width: 200px;
+    }
+
+    body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer.ui-sortable div.repitem div.attack input.options-flag {
+        opacity: 1;
+        top: 13px;
+        right: 0px;
+        width: 5px !important;
+        height: 5px !important;
+        z-index: 2;
+    }
+    
+    .charsheet .equipment .inventorysubflag,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool input.options-flag {
+        opacity: 1;
+        top: 13px;
+        right: -40px;
+        width: 5px !important;
+        height: 5px !important;
+        z-index: 2;
+    }
+    div.complex:nth-child(6) > div:nth-child(2) div.repitem div.trait input.options-flag {
+        opacity: 1;
+        position: absolute;
+        top: 12px;
+        right: 20px;
+        width: 5px !important;
+        height: 5px !important;
+        z-index: 2;
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool input.options-flag,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool input.options-flag,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.repcontainer div.repitem div.proficiency input.options-flag {
+        opacity: 1;
+        top: 10px;
+        right: -12px;
+        width: 5px !important;
+        height: 5px !important;
+        z-index: 2;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer {
+        width: 190px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool div.display button.btn.ui-draggable:hover span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool div.display button.btn.ui-draggable:hover input,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.repcontainer div.repitem div.proficiency div.display button.btn.ui-draggable:hover span {
+        color: var(--dark-red-l20) !important;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.repcontainer {
+        width: 90%;
+        margin-left: 10px;
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer.ui-sortable div.repitem {
+        width: 88%;
+        margin-left: 12px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex {
+        width: 220px !important;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool {
+        width: 200px;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header input.options-flag, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.body div.col.col3 div.spell-container div.repcontainer div.repitem div.spell div.wrapper input.options-flag{
+        opacity: 1;
+        width: 10px !important;
+height: 10px !important;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.saving-throw-container div.saving-throw input,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.skills-container.skills-list div div.skill input,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item input:nth-child(1),
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item input:nth-child(5),
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer.ui-sortable div.repitem div.item input.inventorysubflag,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer.ui-sortable div.repitem div.attack input.options-flag,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool input.options-flag,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.repcontainer div.repitem div.proficiency input.options-flag,
+    div.complex:nth-child(6) > div:nth-child(2) div.repitem div.trait input.options-flag,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header input.options-flag, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.body div.col.col3 div.spell-container div.repcontainer div.repitem div.spell div.wrapper input.options-flag {
+        appearance: none;
+        margin: 0;
+        background-color: var(--dark-surface1);
+        font: inherit;
+        color: var(--darker-red-l20);
+        width: 1.15em;
+        height: 1.15em;
+        border: 0.15em solid currentColor;
+        border-radius: 0.15em;
+        transform: translateY(-0.075em);
+        display: inline-grid;
+        place-content: center;
+    }
+
+    div.item:nth-child(3) > div:nth-child(7) > input:nth-child(3),
+    div.item:nth-child(3) > div:nth-child(7) > input:nth-child(5) {
+        appearance: none;
+        background-color: var(--dark-surface1);
+        font: inherit;
+        color: var(--darker-red-l20);
+        width: 1.15em;
+        height: 1.15em;
+        border: 0.15em solid currentColor;
+        border-radius: 0.15em;
+        transform: translateY(-0.075em);
+        display: inline-grid;
+        place-content: center;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool div.display button.btn.ui-draggable input {
+        height: 22px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer.ui-sortable div.repitem div.item div.subitem,
+    .sheet-darkmode .equipment .item span {
+        color: var(--dark-primarytext);
+        background-color: transparent;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item div.subitem {
+        width: 240px;
+        height: 150px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item div.subitem input,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item div.subitem span {
+        margin-left: 10px;
+    }
+
+    div.repcontainer:nth-child(7) > div:nth-child(1) > div:nth-child(3) > div:nth-child(7) > input:nth-child(1) {
+        float: left;
+    }
+
+
+    .sheet-darkmode .charsheet .equipment .inventorysubflag:checked + span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer.ui-sortable div.repitem div.item:first-child span .sheet-darkmode .charsheet .equipment .inventorysubflag:checked + span,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer.ui-sortable div.repitem div.item:first-child span:hover,
+    .charsheet .item:hover .inventorysubflag + span {
+        color: transparent;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.saving-throw-container div.saving-throw input::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.skills-container.skills-list div div.skill input::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item input::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer.ui-sortable div.repitem div.item input.inventorysubflag::before,
+    div.item:nth-child(3) > div:nth-child(7) > input:nth-child(3)::before,
+    div.item:nth-child(3) > div:nth-child(7) > input:nth-child(5)::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer.ui-sortable div.repitem div.attack input.options-flag::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool input.options-flag::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.repcontainer div.repitem div.proficiency input.options-flag::before,
+    div.complex:nth-child(6) > div:nth-child(2) div.repitem div.trait input.options-flag::before, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header input.options-flag::before, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.body div.col.col3 div.spell-container div.repcontainer div.repitem div.spell div.wrapper input.options-flag::before {
+        content: "";
+        width: 0.65em;
+        height: 0.65em;
+        transform: scale(0);
+        transition: 120ms transform ease-in-out;
+        box-shadow: inset 1em 1em var(--darker-red-l20);
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.saving-throw-container div.saving-throw input:checked::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.skills-container.skills-list div div.skill input:checked::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer div.repitem div.item input:checked::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer.ui-sortable div.repitem div.item input.inventorysubflag:checked::before,
+    div.item:nth-child(3) > div:nth-child(7) > input:nth-child(3):checked::before,
+    div.item:nth-child(3) > div:nth-child(7) > input:nth-child(5):checked::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer.ui-sortable div.repitem div.attack input.options-flag:checked::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer div.repitem div.tool input.options-flag:checked::before,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.repcontainer div.repitem div.proficiency input.options-flag:checked::before,
+    div.complex:nth-child(6) > div:nth-child(2) div.repitem div.trait input.options-flag:checked::before, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header input.options-flag:checked::before, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.body div.col.col3 div.spell-container div.repcontainer div.repitem div.spell div.wrapper input.options-flag:checked::before {
+        transform: scale(1);
+    }
+
+    .sheet-darkmode button[type="roll"]:hover,
+    .sheet-darkmode .skill button[type="roll"]:hover span,
+    .sheet-darkmode .attr-container button.btn:hover,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .ac-init-speed-container .init button:hover {
+        color: var(--dark-red-l20) !important;
+    }
+    .licensecontainer .container:not(.npc) .saving-throw-container .label,
+    .licensecontainer .container:not(.npc) .skills-container .label {
+        position: absolute;
+        width: 100%;
+        bottom: 0px;
+        padding-bottom: 10px;
+        margin: 0 -20px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex div.repcontainer.ui-sortable {
+        margin-left: -10px;
+        width: 200px;
+    }
+
+    .saving-throw-container {
+        margin-top: 10px;
+    }
+
+    .sheet-rolltemplate-dmgaction div.sheet-arrow-right {
+        border-top: 0.25em solid transparent;
+        border-bottom: 0.25em solid transparent;
+        border-left: 14em solid var(--dark-red-l20);
+    }
+    .textchatcontainer .message.you,
+    .textchatcontainer .rollresult.quantumRoll,
+    .textchatcontainer .message.system {
+
+        background-color: var(--dark-surface1);
+    }
+
+    div.complex:nth-child(6) > div:nth-child(2) > div > div:nth-child(4) > button:nth-child(1) {
+        top: 24px;
+        right: 7px;
+        font-size: 16px;
+    }
+
+    div#textchat,
+    div#editor-wrapper,
+    .ui-widget-content,
+    #page-toolbar,
+    .ui-dialog {
+        scrollbar-color: var(--dark-red-l20) var(--dark-surface1);
+        scrollbar-width: thin;
+    }
+
+    div.complex:nth-child(6) > div:nth-child(2) > div > div:nth-child(4) > div:nth-child(6) > span:nth-child(1) {
+        color: var(--dark-red-l20);
+    }
+
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment::-webkit-scrollbar,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex::-webkit-scrollbar,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex::-webkit-scrollbar,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex::-webkit-scrollbar,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer::-webkit-scrollbar,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.textbox.traits div.complex::-webkit-scrollbar,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources::-webkit-scrollbar {
+        display: none;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment {
+        position: relative;
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex {
+        height: 424px;
+        margin-left: 0px;
+        width: 240px;
+        
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.equipment div.complex,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.textbox.traits div.complex,
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col3 div.resources, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.body div.col.col3 div.spell-container div.repcontainer div.repitem div.spell div.wrapper div.options {
+        scrollbar-width: none;
+        overflow-y: scroll;
+    }
+    
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.body div.col.col3 div.spell-container div.repcontainer div.repitem div.spell div.wrapper div.options {
+        height: 500px;
+        padding-bottom: 10px;
+    }
+    
+.spell .options {
+  margin: 15px 10px;
+  padding: 0;
+    padding-bottom: 5px;
+    padding-left: 5px;
+  overflow-x: scroll;
+  text-overflow: clip;
+}
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex {
+        height: 204px;
+        width: 240px;
+    }
+    
+        html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col2 div.attacks div.repcontainer{
+        height: 204px;
+        width: 245px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.textbox-container.proficiencies.proficiencies--old div.complex div.repcontainer div.repitem div.proficiency div.display button.btn.ui-draggable > span:nth-child(2) {
+        margin-left: 5px;
+    }
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.top {
+        margin-left: -20px;
+    }
+
+    html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.tool_proficiencies div.repcontainer {
+        height: 130px;
+    }
+
+    .sheet-darkmode .ui-dialog .nav-tabs {
+        border-bottom: 1px solid var(--darker-red-l20);
+        border-bottom-color: var(--darker-red-l20);
+    }
+
+    #floatingtoolbar ul li:hover,
+    #floatingtoolbar ul li.activebutton:hover,
+    .sheet-darkmode .ui-dialog .nav-tabs > li.active > a,
+    .sheet-darkmode .ui-dialog .nav-tabs > li.active > a:hover,
+    .sheet-darkmode .ui-dialog .nav-tabs > li.active > a:focus,
+    .sheet-darkmode .ui-dialog .nav-tabs > li a:hover,
+    .sheet-darkmode .repcontrol .repcontrol_edit::after,
+    .sheet-darkmode .repcontrol .repcontrol_add::before {
+        color: var(--dark-red-l20);
+        background-color: var(--darker-red-l20);
+        border: 1px solid var(--darker-red-l20);
+        text-decoration: none;
+    }
+    #floatingtoolbar,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-dmg .sheet-advspacer,
+    .roll-hitdie > button:nth-child(1),
+    div.hdice-dsaves-container:nth-child(6) > div:nth-child(2) > button:nth-child(3),
+    .sheet-darkmode .saving-throw button[type="roll"],
+    .sheet-darkmode .skill button[type="roll"],
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-atk a[href^="~"],
+    .btn:hover,
+    .sheet-rolltemplate-npc .inlinerollresult.fullfail,
+    .sheet-rolltemplate-npcaction .inlinerollresult.fullfail,
+    .sheet-rolltemplate-npcfullatk .inlinerollresult.fullfail,
+    .sheet-rolltemplate-npcatk .inlinerollresult.fullfail,
+    .sheet-rolltemplate-npcdmg .inlinerollresult.fullfail,
+    .sheet-rolltemplate-dmgaction .inlinerollresult.fullfail,
+    .basicdiceroll.critfail,
+    html.dark body.no-touch div#rightsidebar.ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable div#textchat.textchatcontainer.ui-tabs-panel.ui-widget-content.ui-corner-bottom.sheet-darkmode div.content div.message.general div.sheet-rolltemplate-simple.sheet-rolltemplate-darkmode div.sheet-container div.sheet-result div.sheet-solo span span.inlinerollresult.showtip.tipsy-n-right.fullfail,
+    .btn:focus,
+    .btn:active,
+    .btn.active,
+    .btn.btn-default:hover,
+    .btn.btn-default:focus,
+    .btn.btn-default:active,
+    .btn-primary:hover,
+    .btn-primary:focus,
+    .btn-primary:active,
+    .sheet-darkmode .licensecontainer .container:not(.npc) .subcontainer {
+        border: none;
+    }
+
+    .sheet-darkmode .saving-throw button[type="roll"],
+    .sheet-darkmode .skill button[type="roll"] {
+        line-height: 14px;
+        height: 14px;
+        border-radius: 0px;
+        background-color: transparent;
+    }
+    .roll-hitdie > button:nth-child(1),
+    div.hdice-dsaves-container:nth-child(6) > div:nth-child(2) > button:nth-child(3) {
+        line-height: 1px;
+        height: 2px;
+        border-radius: 0px;
+        background-color: transparent;
+    }
+
+
+    .sheet-darkmode .licensecontainer .container .spell-level {
+        filter: sepia(72%) saturate(270%) hue-rotate(280deg) brightness(110%) contrast(300%);
+    }
+
+    .sheet-darkmode .licensecontainer .advantagetoggle input[type="radio"]:checked + span {
+        background-color: var(--dark-red-l20)
+    }
+    .sheet-darkmode .componentscontainer span {
+        background-color: var(--darker-red-l20);
+    }
+
+    #editinglayer.map div.submenu li.choosemap,
+    #editinglayer.objects div.submenu li.chooseobjects,
+    #measure li.activerulermode,
+    #fogcontrols li.activefogtoolshape,
+    #fogcontrols li.activefogtool,
+    #fogcontrols li.activefogtoolmode,
+    #floatingtoolbar li:hover,
+    #floatingtoolbar li.activebutton,
+    #floatingtoolbar #vue_container_hide_reveal ul.legacy li:hover,
+    #page-toolbar .handle:hover,
+    #page-toolbar .handle:focus {
+        color: var(--dark-red-l20);
+        background-color: var(--darker-red-l20);
+    }
+    #page-toolbar .activepage img.pagethumb {
+        border-color: var(--dark-red-l20);
+    }
+    #page-toolbar .pages div.availablepage:hover img.pagethumb {
+        box-shadow: 0px 0px 30px #f91c3a, 0px 0px 5px #ffcdd4;
+    }
+    #imagedialog .tabcontainer a.active {
+        color: var(--dark-red-l20);
+    }
+
+    #floatingtoolbar li.quickdice:hover .quickdice-label,
+    #floatingtoolbar li.quickdice .quickdice-button:hover,
+    #floatingtoolbar li.quickdice .quickdice-toggle[data-toggle="true"] {
+        color: var(--dark-red-l20);
+        background-color: var(--darker-red-l20);
+        cursor: pointer;
+    }
+
+    .ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable {
+        box-shadow: 0px 0px 30px #000;
+    }
+    #zoomclick .btn:hover,
+    input:checked + .dark-mode-slider {
+        background-color: var(--dark-red-l20);
+    }
+    #editor-wrapper {
+        background-color: var(--dark-surface1);
+    }
+    #page-toolbar .pages .availablepage .page-actions {
+        background-color: var(--dark-surface1);
+        border: 1px solid var(--dark-red-l20);
+    }
+    .no-touch .dd-content:hover {
+        color: var(--dark-red-l20);
+    }
+    #rightsidebar .ui-tabs-nav li.ui-state-active a {
+        color: var(--dark-primarytext);
+        background-color: var(--darker-red-l20);
+    }
+    #page-toolbar .pages .availablepage .page-actions .page-actions__item img {
+        filter: invert(11%) sepia(72%) saturate(4000%) hue-rotate(280deg) brightness(53%) contrast(300%);
+    }
+    .ui-widget-content {
+        color: var(--darker-text);
+    }
+    .ui-widget-content a {
+        color: var(--dark-red-l20);
+    }
+    .sheet-rolltemplate-darkmode {
+        --backColor: var(--dark-surface1);
+        --fontColor: #770069;
+    }
+
+    #textchat-input {
+        background-color: var(--dark-surface1);
+        border-color: var(--dark-surface1);
+    }
+
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-simple div.sheet-container,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-atk div.sheet-container,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-dmg div.sheet-container {
+        padding: 10px;
+        background-image: url('https://openclipart.org/image/400px/320811');
+    }
+
+    .sheet-rolltemplate-simple div.sheet-container,
+    .sheet-rolltemplate-simple3D div.sheet-container,
+    .sheet-rolltemplate-skill div.sheet-container,
+    .sheet-rolltemplate-atk div.sheet-container,
+    .sheet-rolltemplate-atkdmg div.sheet-container.sheet-atk,
+    .sheet-rolltemplate-dmg div.sheet-atk,
+    .sheet-rolltemplate-dmg div.sheet-container,
+    .sheet-rolltemplate-atkdmg div.sheet-container.sheet-damagetemplate,
+    .sheet-rolltemplate-atk div.sheet-desc,
+    .sheet-rolltemplate-atkdmg div.sheet-desc,
+    .sheet-rolltemplate-dmg div.sheet-desc,
+    .sheet-rolltemplate-desc div.sheet-desc {
+        background-size: 103% 100%;
+        background-position: center;
+    }
+
+    .userscript-commandintro img {
+        filter: invert(11%) sepia(72%) saturate(400%) hue-rotate(330deg) brightness(55%) contrast(160%);
+    }
+
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-atk div.sheet-container a,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-atk div.sheet-container a:hover {
+        background-color: transparent;
+    }
+
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-mancerroll .sheet-container,
+    .sheet-darkmode.textchatcontainer .formula,
+    .sheet-darkmode.textchatcontainer .rolled {
+        background-color: var(--dark-surface1);
+    }
+    .sheet-rolltemplate-mancerroll .sheet-container,
+    .sheet-container,
+    .sheet-rolltemplate-mancerroll .sheet-row,
+    .sheet-rolltemplate-mancerhproll .sheet-row,
+    .textchatcontainer .inlinerollresult,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-mancerroll .sheet-container,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-mancerhproll .sheet-container {
+        background-color: var(--dark-surface1);
+        border: 1px solid var(--dark-surface1);
+    }
+
+    .sheet-rolltemplate-mancerroll .sheet-row.sheet-header,
+    .sheet-rolltemplate-mancerhproll .sheet-row.sheet-header {
+        padding: 8px;
+        padding-bottom: 18px;
+        border: 1px solid var(--darker-red-l20);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        background-color: var(--darker-red-l20);
+        position: relative;
+    }
+    .sheet-rolltemplate-mancerroll .sheet-row.sheet-header::before,
+    .sheet-rolltemplate-mancerhproll .sheet-row.sheet-header::before {
+        content: "";
+        position: absolute;
+        background-color: var(--dark-surface1);
+        bottom: -1px;
+        left: -1px;
+        width: 200px;
+        height: 9px;
+        border-top-left-radius: 100px;
+        border-top-right-radius: 100px;
+    }
+
+    .sheet-rolltemplate-darkmode {
+        margin-top: 10px;
+    }
+
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-traits,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-npc,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-npcatk,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-npcdmg,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-dmgaction,
+    .sheet-rolltemplate-darkmode.sheet-rolltemplate-traits {
+        background-color: var(--dark-surface1);
+        color: var(--dark-red-l20);
+    }
+
+    .sheet-darkmode.ui-widget-content,
+    .textchatcontainer .message.system,
+    .userscript-commandintro strong {
+        color: var(--dark-red-l20);
+    }
+    #textchat .userscript-sharelink {
+        background-color: transparent;
+        opacity: 1;
+    }
+    #textchat .userscript-sharelink a {
+        color: var(--dark-red-l20) !important;
+    }
+
+    .diceroll .backing {
+        color: var(--dark-red-l20);
+        text-shadow: 0px 0px 3px var(--dark-red-l20);
+    }
+
+    .ui-state-default,
+    .ui-widget-content .ui-state-default {
+        text-shadow: 0 1px 1px rgba(0, 0, 0, .54);
+    }
+
+
+    html.dark body.no-touch div#rightsidebar.ui-tabs.ui-widget.ui-widget-content.ui-corner-all.ui-resizable div#textchat.textchatcontainer.ui-tabs-panel.ui-widget-content.ui-corner-bottom.sheet-darkmode div.content div.message.system h1 {
+        color: var(--dark-red-l20);
+    }
+
+    input:hover,
+    textarea:hover,
+    select:hover {
+        border-color: var(--dark-red-l20);
+    }
+    input,
+    textarea,
+    select,
+    .uneditable-input {
+        border: 1px solid var(--dark-red-l20);
+        color: var(--dark-primarytext);
+    }
+    input:focus,
+    textarea:focus,
+    select:focus {
+        border-color: var(--dark-red-l20);
+        outline: 1px solid var(--dark-red-l20);
+    }
+
+    .btn:hover,
+    .btn:focus,
+    .btn:active,
+    .btn.active,
+    .btn.btn-default:hover,
+    .btn.btn-default:focus,
+    .btn.btn-default:active,
+    .btn-primary:hover,
+    .btn-primary:focus,
+    .btn-primary:active {
+        color: var(--dark-primarytext);
+        background: var(--dark-red-l20);
+    }
+
+    #sortrootjukeboxalpha {
+        color: var(--dark-red-l20);
+    }
+    #jukeboxwhatsplaying {
+        border: 1px solid var(--dark-red-l20);
+    }
+    hr {
+        border-top-color: var(--dark-red-l20);
+    }
+    .panel-default > .panel-heading,
+    .panel-default {
+        background-color: var(--dark-surface1);
+        border-color: var(--dark-surface1);
+    }

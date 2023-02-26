@@ -71,7 +71,7 @@
 }
     
     html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.options, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.bio div.header div.header-info, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.header div.header-info, html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.display{
-background: url(https://github.com/dottedbee/hhhhhhhhhhhhhhhh/blob/main/frame.webp?raw=true);
+background: url(https://github.com/dottedbee/Roll20-Curse-of-Strahd-theme/blob/main/frame.webp?raw=true);
         background-size: 100%;
     }
     
@@ -131,7 +131,7 @@ background: url(https://github.com/dottedbee/hhhhhhhhhhhhhhhh/blob/main/frame.we
     }
     
     html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.options div.row select.hiding.class {
-        background: url(https://github.com/dottedbee/hhhhhhhhhhhhhhhh/blob/main/frame.webp?raw=true);
+        background: url(https://github.com/dottedbee/Roll20-Curse-of-Strahd-theme/blob/main/frame.webp?raw=true);
     }
     
         html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.header div.header-info.options div.row input {
@@ -143,7 +143,7 @@ background: url(https://github.com/dottedbee/hhhhhhhhhhhhhhhh/blob/main/frame.we
     .sheet-darkmode .licensecontainer .container:not(.npc) div.page.core > div.header,
     html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.bio div.header,
     html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.spells div.header {
-        background-image: url(https://github.com/dottedbee/hhhhhhhhhhhhhhhh/blob/main/curse_of_strahd_banner_big.webp?raw=true);
+        background-image: url(https://github.com/dottedbee/Roll20-Curse-of-Strahd-theme/blob/main/curse_of_strahd_banner_big.webp?raw=true);
         background-position: -12px 3px;
     }
 
@@ -461,7 +461,7 @@ border: none;
     html body.sheet-darkmode div#dialog-window.ui-dialog div.dialog.largedialog.characterviewer div#tab-content.tab-content form.sheetform div.charactersheet.tab-pane.charsheet.lang-undefined div.licensecontainer.compendium-drop-target.monsters.vehicles div.container.pc div.page.core div.body div.col.col1 div.skills-saves-container div.insp-prof-container div.label span {
         margin-left: 50px;
         text-align: left;
-        width: 100px;
+        width: 180px;
         font-size: 10px;
     }
 
